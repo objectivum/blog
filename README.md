@@ -12,7 +12,7 @@ The [blog](http://objectivum.eu/) I wish I had written.
 
 ## Maintainers
 
-[@octavian-nita](https://twitter.com/octavian_t_nita).
+[@octavian-nita](https://twitter.com/octavian_t_nita)
 
 ## Contributing
 
@@ -24,9 +24,9 @@ We follow the [Contributor Covenant](http://contributor-covenant.org/version/1/3
 
 This project exists thanks to all the people who contribute.
 
-<a class="CircleBadge CircleBadge--small" title="octavian-nita">
-  <img src="https://github.com/octavian-nita.png?v=3&s=64"
-       class="CircleBadge CircleBadge--small avatar" alt="octavian-nita" width="64" height="64"/>
+<a class="avatar mr-1" title="octavian-nita">
+  <img src="https://github.com/octavian-nita.png?s=64&v=4"
+       class="avatar-user" alt="@octavian-nita" width="64" height="64"/>
 </a>
 
 ## License
