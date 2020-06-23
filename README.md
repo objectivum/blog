@@ -12,7 +12,7 @@ The [blog](http://objectivum.eu/) I wish I had written.
 
 ## Maintainers
 
-[@octavian-nita](https://github.com/octavian-nita).
+[@octavian-nita](https://twitter.com/octavian_t_nita).
 
 ## Contributing
 
