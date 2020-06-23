@@ -24,8 +24,9 @@ We follow the [Contributor Covenant](http://contributor-covenant.org/version/1/3
 
 This project exists thanks to all the people who contribute.
 
-<a class="CircleBadge CircleBadge--small float-left mr-2" href="#small" title="octavian-nita">
-  <img src="https://github.com/octavian-nita.png?v=3&s=64"  class="CircleBadge-icon" alt="octavian-nita">
+<a class="CircleBadge CircleBadge--small" title="octavian-nita">
+  <img src="https://github.com/octavian-nita.png?v=3&s=64"
+       class="CircleBadge CircleBadge--small avatar" alt="octavian-nita" />
 </a>
 
 ## License
