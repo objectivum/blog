@@ -26,7 +26,7 @@ This project exists thanks to all the people who contribute.
 
 <a class="CircleBadge CircleBadge--small" title="octavian-nita">
   <img src="https://github.com/octavian-nita.png?v=3&s=64"
-       class="CircleBadge CircleBadge--small avatar" alt="octavian-nita" />
+       class="CircleBadge CircleBadge--small avatar" alt="octavian-nita" width="64" height="64"/>
 </a>
 
 ## License
