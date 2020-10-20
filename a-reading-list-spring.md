@@ -17,5 +17,7 @@
 2. [mscharhag, Programming and Stuff;](https://www.mscharhag.com/)
 3. [Baeldung](https://www.baeldung.com/)
 
-### Alternative
-- [Baeldung](https://www.baeldung.com/start-here)
+## etc.
+
+- [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring)
+- [peterhalasz/awesome-spring](https://github.com/peterhalasz/awesome-spring)
