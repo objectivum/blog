@@ -15,7 +15,8 @@
 
 1. [Reflectoring (on Spring Boot)](https://reflectoring.io/categories/spring-boot/)
 2. [mscharhag, Programming and Stuff;](https://www.mscharhag.com/)
-3. [Baeldung](https://www.baeldung.com/)
+3. [Philip Riecks (rieckpil)'s Spring Framework Tutorials, testing mostly](https://rieckpil.de/category/spring-framework/)
+n. [Baeldung](https://www.baeldung.com/)
 
 ## etc.
 
