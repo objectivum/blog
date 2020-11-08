@@ -6,3 +6,5 @@
 > mobile apps and third-party IoT devices and even access to banking APIs.
 >
 > * [Hands-on introduction to OAuth 2.0](https://aaronparecki.com/2020/12/17/1/)
+
+ * https://aaronparecki.com/oauth-2-simplified/
