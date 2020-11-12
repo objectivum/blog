@@ -2,7 +2,7 @@
 
 The [blog](http://objectivum.eu/) I wish I had written.
 
-Or maybe the [digital](https://joelhooks.com/digital-garden) [garden](https://www.mentalnodes.com/a-gardening-guide-for-your-mind) I wish I had grown?
+Or maybe [the](https://github.com/maggieappleton/digital-gardeners) [digital](https://joelhooks.com/digital-garden) [garden](https://www.mentalnodes.com/a-gardening-guide-for-your-mind) I wish I had grown?
 
 ## Table of Contents
 
