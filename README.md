@@ -2,6 +2,8 @@
 
 The [blog](http://objectivum.eu/) I wish I had written.
 
+Or maybe the [digital garden](https://joelhooks.com/digital-garden) I wish I had grown?
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
