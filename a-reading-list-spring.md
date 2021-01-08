@@ -20,5 +20,6 @@
 
 ## etc.
 
+- [Daniel Olszewski/DEV IN WEB](http://dolszewski.com/category/spring/)
 - [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring)
 - [peterhalasz/awesome-spring](https://github.com/peterhalasz/awesome-spring)
