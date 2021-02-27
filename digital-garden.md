@@ -8,3 +8,10 @@
 > * [Hands-on introduction to OAuth 2.0](https://aaronparecki.com/2020/12/17/1/)
 
  * https://aaronparecki.com/oauth-2-simplified/
+
+# Learning, Intelligence
+
+ * https://fs.blog/2021/02/feynman-learning-technique/
+ * https://www.inc.com/jessica-stillman/richard-feynman-genius-intelligence-advice.html
+ * https://www.inc.com/jessica-stillman/jeff-bezos-benjamin-franklin-intelligence-humility.html
+ * https://www.dannycrichton.com/2019/08/26/how-i-use-anki-to-learn-korean/
