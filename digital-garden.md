@@ -15,3 +15,8 @@
  * https://www.inc.com/jessica-stillman/richard-feynman-genius-intelligence-advice.html
  * https://www.inc.com/jessica-stillman/jeff-bezos-benjamin-franklin-intelligence-humility.html
  * https://www.dannycrichton.com/2019/08/26/how-i-use-anki-to-learn-korean/
+
+# Elasticsearch, Elastic Stack Grimoire
+
+ * ...
+ * references to (really) useful resources
