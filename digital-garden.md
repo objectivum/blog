@@ -20,3 +20,10 @@
 
  * ...
  * references to (really) useful resources
+
+# Web dev magazines/stuff
+
+ * https://www.smashingmagazine.com/
+ * https://www.webdesignerdepot.com/
+ * https://alistapart.com/
+ * https://css-tricks.com/
