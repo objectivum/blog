@@ -9,3 +9,4 @@
  * caching mechanisms => details to decide upon later, replace with functional interfaces/programming; defer decisions upon details...
  * problem-based learning (?) at work? false sense of mastering?
  * CSV batch / stream / enriching exceptions
+ * custom Jackson mapping, mapping raw JSON, etc.
