@@ -10,3 +10,5 @@
  * problem-based learning (?) at work? false sense of mastering?
  * CSV batch / stream / enriching exceptions
  * custom Jackson mapping, mapping raw JSON, etc.
+ * Oualline, Program Design, reusability
+   * `boolean itemTypeExists(@NotNull String itemTypeId)` <> `boolean itemTypesExist(ConfigContext context)`
