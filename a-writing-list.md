@@ -12,3 +12,4 @@
  * custom Jackson mapping, mapping raw JSON, etc.
  * Oualline, Program Design, reusability
    * `boolean itemTypeExists(@NotNull String itemTypeId)` <> `boolean itemTypesExist(ConfigContext context)`
+ * Tagging experience, findCommonTagLabelsFor(), NavigableMap
