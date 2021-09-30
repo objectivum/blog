@@ -13,6 +13,7 @@
  * Oualline, Program Design, reusability
    * `boolean itemTypeExists(@NotNull String itemTypeId)` <> `boolean itemTypesExist(ConfigContext context)`
  * Tagging experience, findCommonTagLabelsFor(), NavigableMap
- * `@NotNull
+ * ```@NotNull
     public <T, C extends Collection<? super T>> C findAllItemTypes(
-      @NotNull BiFunction<String, JsonNode, T> itemTypeFactory, @NotNull Supplier<C> collectionFactory) { ... }`
+      @NotNull BiFunction<String, JsonNode, T> itemTypeFactory, @NotNull Supplier<C> collectionFactory) { ... }
+   ```
