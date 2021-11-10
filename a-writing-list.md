@@ -17,4 +17,4 @@
     public <T, C extends Collection<? super T>> C findAllItemTypes(
       @NotNull BiFunction<String, JsonNode, T> itemTypeFactory, @NotNull Supplier<C> collectionFactory) { ... }
    ```
- * Cognitive Complexity / SonarQube; might streams help?
+ * Cognitive Complexity / SonarQube; might streams help? -- calculate Cognitive Complexity for the 1st example [here](https://developer.ibm.com/articles/j-java-streams-1-brian-goetz/)
