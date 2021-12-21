@@ -2,6 +2,7 @@
 
  * current experience with statistics
  * arrays of values by default
+ * re-use/parameterize large query body
 
 # Etc.
 
