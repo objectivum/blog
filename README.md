@@ -4,6 +4,12 @@ The [blog](http://objectivum.eu/) I wish I had written.
 
 Or maybe [the](https://github.com/maggieappleton/digital-gardeners) [digital](https://joelhooks.com/digital-garden) [garden](https://www.mentalnodes.com/a-gardening-guide-for-your-mind) I wish I had grown?
 
+> [First of all, you take apart what writing actually is. And there, you realize that writing isn’t just writing – that writing consists of four different parts:](https://www.lifehack.org/762906/goals-vs-objectives-how-to-become-successful#:~:text=First%20of%20all,Editing)
+>* Generating ideas
+>* Researching
+>* Writing
+>* Editing
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
