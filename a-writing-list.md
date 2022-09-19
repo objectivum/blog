@@ -23,5 +23,14 @@
    * I might want to care sometimes => I use a few well-defined exceptions
    * Do I imply logging as feedback? (because cross-cutting concerns then come together)
    * Consider all ports / inputs and how we report back to either the user or support or ...
-   * Techniques: log and continue (how?) / throw and catch at ports (since it's usually little else we can do)
+   * Techniques: log and continue (how?); throw and catch at ports (since it's usually little else we can do)
    * Batch / stream / enriching exceptions
+   * Resources:
+     * https://reflectoring.io/spring-boot-exception-handling/
+     * https://www.toptal.com/java/spring-boot-rest-api-error-handling
+     * https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/
+     * https://victorrentea.ro/blog/exception-handling-guide-in-java/
+     * https://victorrentea.ro/blog/presenting-exceptions-to-users/
+     * https://www.youtube.com/watch?v=zko8R_alQgw&ab_channel=Devoxx
+     * https://www.youtube.com/watch?v=6va1hAyh-M8&ab_channel=DevTernityConference
+ 
