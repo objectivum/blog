@@ -18,8 +18,10 @@
       @NotNull BiFunction<String, JsonNode, T> itemTypeFactory, @NotNull Supplier<C> collectionFactory) { ... }
    ```
  * Cognitive Complexity / SonarQube; might streams help? -- calculate Cognitive Complexity for the 1st example [here](https://developer.ibm.com/articles/j-java-streams-1-brian-goetz/)
- * Error handling strategy in Spring Boot-based projects
-   * do we imply logging as feedback? (because "It all comes together")
-   * consider all ports / inputs and how we report back to either the user or support or ...
-   * technique: log and continue, throw and catch at ports
-   * batch / stream / enriching exceptions
+ * Error handling strategy in Spring Boot-based applications (not libs!)
+   * I usually don't (want to) care about the exception
+   * I might want to care sometimes => I use a few well-defined exceptions
+   * Do I imply logging as feedback? (because cross-cutting concerns then come together)
+   * Consider all ports / inputs and how we report back to either the user or support or ...
+   * Techniques: log and continue (how?) / throw and catch at ports (since it's usually little else we can do)
+   * Batch / stream / enriching exceptions
