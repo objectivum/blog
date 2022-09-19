@@ -22,9 +22,9 @@
    * I usually don't (want to) care about the exception
    * I might want to care sometimes => I use a few well-defined exceptions
    * Do I imply logging as feedback? (because cross-cutting concerns then come together)
-   * Consider all ports / inputs and how we report back to either the user or support or ...
+   * Consider all ports / inputs and how we report back to either the user or support or...
    * Techniques: log and continue (how?); should we log-and-throw, after all? Throw and catch at ports (since it's usually little else we can do)
-   * In a (typical? -- nice adjective to guide the reader :) ) application, we usually log (or at least want to) every or most of the time while we respond only sometimes
+   * In a (typical? -- nice adjective to guide the reader :) ) application, we usually log (or at least want to) every or most of the time while we respond only sometimes because... `The Times They Are A-Changin'` (_Bob Dylan_) and a common application does both sync and async processing
    * Batch / stream / enriching exceptions
    * Resources:
      * https://reflectoring.io/spring-boot-exception-handling/
