@@ -11,7 +11,8 @@
 1. [Reflectoring (on Spring Boot)](https://reflectoring.io/categories/spring-boot/)
 2. [mscharhag, Programming and Stuff;](https://www.mscharhag.com/)
 3. [Philip Riecks (rieckpil)'s Spring Framework Tutorials, especially on testing](https://rieckpil.de/category/spring-framework/)
-4. [Baeldung](https://www.baeldung.com/)
+4. [Spring Framework Guru](https://springframework.guru/)
+5. [Baeldung](https://www.baeldung.com/)
 
 ## Courses
 
