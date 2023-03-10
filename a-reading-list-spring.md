@@ -13,11 +13,13 @@
 3. [Philip Riecks (rieckpil)'s Spring Framework Tutorials, especially on testing](https://rieckpil.de/category/spring-framework/)
 4. [Spring Framework Guru](https://springframework.guru/)
 5. [Baeldung](https://www.baeldung.com/)
+6. [Dan Vega](https://www.danvega.dev/blog)
 
 ## Courses
 
-1. [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional)
-2. [Spring Security & OAuth 2.0: In-Depth](https://www.marcobehler.com/guides/spring-security-oauth2)
+1. [GETTING STARTED WITH SPRING: A BEGINNER'S GUIDE](https://www.danvega.dev/blog/2023/03/09/spring-boot-crash-course/)
+2. [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional)
+3. [Spring Security & OAuth 2.0: In-Depth](https://www.marcobehler.com/guides/spring-security-oauth2)
 
 ## etc.
 
